@@ -1,16 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Burhan.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Kaif.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ## About Me    
-I'm a computer science guy with a knack for AI and machine learning. I've built loads of websites over the years and even worked on augmented reality projects - that futuristic stuff is so cool! Graphic design is one of my favorite hobbies when I'm not coding. I'm also really into digital marketing and have done a ton of work in that space. On top of all that, I'm an entrepreneur running my own business. Technology is my passion and I love exploring all the different areas it touches.
+Data Scientist with expertise in Python, Machine Learning, and Data Analysis. Passionate about building AI-driven solutions
+that drive business impact. Skilled in developing, optimizing, and evaluating ML models with a strong focus on data-driven
+decision-making.
     
 
 ## Languages and Tools 
 
 
 ### Languages:
-| Python | C | C++ | JS | PhP |
-|----------|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PhP" alt="PhP" width="55" height="55"/>|
+| Python | C | C++ | JS | 
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
   
 
@@ -24,9 +26,9 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 
 ### My tools for Data Manipulation:
 
-| Conda | Jupyter | R | MySQL | Google Analytics | SQLite |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" title="Google Analytics" alt="Google Analytics" width="110" height="110"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+| Conda | Jupyter| MySQL | Google Analytics | SQLite |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" title="Google Analytics" alt="Google Analytics" width="110" height="110"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
 
 
 
@@ -41,7 +43,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=zwayth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kaif-istan&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -49,13 +51,13 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zwayth&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwayth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=kaif-istan&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-istan&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=zwayth&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=kaif-istan&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
@@ -67,7 +69,6 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 ### Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/burhan-webb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burhan-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://buymeacoffee.com/burhan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 96px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<a href="mailto:iburhanwebb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Burhan-blue?style=flat-square&logo=gmail"></a>
+<a href="www.linkedin.com/in/kaif85077/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kaif-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:kaif85077@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaif-blue?style=flat-square&logo=gmail"></a>
 </p>
